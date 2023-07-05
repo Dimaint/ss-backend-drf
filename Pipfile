@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+djangorestframework-jwt = "*"
+djangorestframework-simplejwt = "*"
 
 [dev-packages]
 
